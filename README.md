@@ -1,3 +1,3 @@
 # Healthtrack-X
 
-Test of automated ontology documentation.
+Test of automated ontology documentation via github action.
